@@ -9,3 +9,5 @@
 ## Запуск
 
 `npm run start:dev`
+
+### Все доступные методы API описаны в `http://localhost:3330/docs`
